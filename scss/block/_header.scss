@@ -1,0 +1,18 @@
+.navbar__wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar__title{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+}
+.navabr__btn{
+    display: flex;
+}
+.navbar__btns{
+    padding: 0 10px;
+    border: none;
+    background: #fff;
+}

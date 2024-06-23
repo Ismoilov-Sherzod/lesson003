@@ -1,0 +1,24 @@
+.shop__wrapper{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin-top: 70px;
+}
+.shop__item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 480px;
+    height: 653px;
+    }
+.shop__title{
+    margin-top: auto;
+}
+.more{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}

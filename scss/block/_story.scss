@@ -1,0 +1,22 @@
+.story{
+    margin-top: 123px;
+}
+.story__wrapper{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.story__title{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+    width: 658px;
+    height: 262px;
+
+}
+.mugs{
+    font-size: 12px;
+}
